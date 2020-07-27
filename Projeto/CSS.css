@@ -4,7 +4,8 @@ nav {
 #pobrs{
     text-align: center;
 }
-body {
+#corpoHome {
+	
 	text-align: center;
 	color: black;
 	background-image: url("imagens/back.jpg");
@@ -17,4 +18,17 @@ body {
 .cardapio{
 	color: wheat;
 	text-align: center;
+}
+body a{
+	color: darkkhaki;
+}
+#caixas{
+	margin-top: 15%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+#salvar{
+	margin-left: 20%;
+	margin-right: 20%;	
+	text-align: left;
 }
